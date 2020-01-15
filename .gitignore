@@ -13,3 +13,4 @@ _ReSharper*
 *.cache
 * Thumbs.db
 *.user
+packages
